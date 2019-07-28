@@ -25,20 +25,20 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://github.com/gaearon"
+          href="https://github.com/KatarinaKala"
           target="_blank"
           rel="noopener noreferrer"
         >
           github
         </a>{' '}
         &bull;{' '}
-        <a
+        {/* <a
           href="https://stackoverflow.com/users/458193/dan-abramov"
           target="_blank"
           rel="noopener noreferrer"
         >
           stack overflow
-        </a>
+        </a> */}
       </footer>
     );
   }

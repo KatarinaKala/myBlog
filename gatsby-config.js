@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Overreacted',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
-    siteUrl: 'https://overreacted.io',
+    title: "Katarina's Blog",
+    author: 'Katarina Kala',
+    description: 'Personal blog of Katarina Kala.',
+    siteUrl: 'https://katarinak.ee',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '',
     },
   },
   pathPrefix: '/',
@@ -53,12 +53,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: `UA-130227707-1`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: `UA-130227707-1`,
+    //   },
+    // },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
