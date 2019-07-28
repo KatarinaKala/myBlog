@@ -14,7 +14,11 @@ Alustasin uue programmeerimiskeele- C# õppimisega ning mõtlesin kirjutada mõn
 
 Järgnevalt on näha koodi, mida ükskõik millises programmeerimiskeeles esimesena kirjutatakse ehk "Hello World!" kirjutamine:
 
-![](http://52.28.251.54/wp-content/uploads/2019/05/image.png)
+```
+x = 7;
+y = x + 3;
+Console.WriteLine(y);
+```
 
 Pildil on ka lühidalt seletatud, mis asjad on klass ja meetod.
 
