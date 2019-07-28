@@ -1,6 +1,7 @@
 ---
 title: 'Esmamuljed õppeainetest'
 date: '2018-09-15'
+spoiler: 'Esmamuljed õppeainetest'
 ---
 
 Esimesed kaks nädalat ülikoolis on üle elatud, kuidas siis esmamuljed on? Kõigepealt tahaksin anda ülevaate, mis ained mul praegu on ja seejärel rääkida täpsemalt muljetest. See semester on mul viis erinevat ainet:

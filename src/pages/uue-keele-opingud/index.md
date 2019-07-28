@@ -1,6 +1,7 @@
 ---
-title: "Uue keele õpingud"
-date: "2019-05-02"
+title: 'Uue keele õpingud'
+date: '2019-05-02'
+spoiler: 'Uue keele õpingud'
 ---
 
 Alustasin uue programmeerimiskeele- C# õppimisega ning mõtlesin kirjutada mõned olulised asjad, mida seni olen õppinud ning millele tähelepanu pöörata.
@@ -25,4 +26,4 @@ Pildil on muutujateks x ja y, millele me oleme andnud mingid väärtused. Kui ko
 
 NB! Väga oluline on panna muutujatele head nimed, et sina ja teised saaksid hästi aru, mida need tähistavad. Ülal pildil oleme teinud lihtsa arvutuse, kuid kui hiljem kirjutame keerulisemat koodi, on hästi näha, kui oluline on panna muutujatele head nimed.
 
-Oluline on ka osata muutujate nimesid õigesti kirjutada. See tähendab, et kui soovid kirjutada muutujale nime, mis koosneb näiteks kahest sõnast, siis need kirjutatakse kokku ja _camelcase'_is ehk teise sõna esimene täht on suur ning kõik teised tähed on väikesed. Näiteks ülemisel pildil oleva muutuja x võime asendada nimega numberSeven.
+Oluline on ka osata muutujate nimesid õigesti kirjutada. See tähendab, et kui soovid kirjutada muutujale nime, mis koosneb näiteks kahest sõnast, siis need kirjutatakse kokku ja \_camelcase'\_is ehk teise sõna esimene täht on suur ning kõik teised tähed on väikesed. Näiteks ülemisel pildil oleva muutuja x võime asendada nimega numberSeven.

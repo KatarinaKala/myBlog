@@ -1,6 +1,7 @@
 ---
-title: "Kuidas õpingud edenevad?"
-date: "2018-09-30"
+title: 'Kuidas õpingud edenevad?'
+date: '2018-09-30'
+spoiler: 'Kuidas õpingud edenevad?'
 ---
 
 Jah, ma olen veel elus, aga kahjuks pole paar nädalat jõudnud blogi kirjutada, sest ülikooli rütmi saamine on võtnud oma aja :)

@@ -1,6 +1,7 @@
 ---
 title: "Eesti idufirmad"
 date: "2018-12-04"
+spoiler: Nagu eelmises postituses mainisin
 ---
 
 Nagu eelmises postituses mainisin, siis tegin aines IT eetilised, sotsiaalsed ja professionaalsed aspektid esitluse teemal Eesti idufirmad, millest mõtlesin ka Teile natuke pikemalt kirjutada. Rääkisin neljast Eesti tuntud _start-up_ist, milleks olid Transferwise, Taxify, Pipedrive ja Starship Technologies. Kirjutan iga ettevõtte kohta mõned põnevad faktid, mis nende kohta teada sain ning äkki leiate ka Teie midagi uut ja põnevat nende _start-up_ide kohta :).
