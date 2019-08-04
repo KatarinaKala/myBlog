@@ -11,12 +11,12 @@ class Footer extends React.Component {
           paddingTop: rhythm(1),
         }}
       >
-        <div style={{ float: 'right' }}>
+        <div style={{}}>
           <a href="/rss.xml" target="_blank" rel="noopener noreferrer">
-            rss
+            RSS feed
           </a>
         </div>
-        <a
+        {/* <a
           href="https://mobile.twitter.com/dan_abramov"
           target="_blank"
           rel="noopener noreferrer"
@@ -31,7 +31,7 @@ class Footer extends React.Component {
         >
           github
         </a>{' '}
-        &bull;{' '}
+        &bull;{' '} */}
         {/* <a
           href="https://stackoverflow.com/users/458193/dan-abramov"
           target="_blank"
