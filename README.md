@@ -1,6 +1,6 @@
 # [katarinak.ee](https://katarinak.ee/)
 # Alternatively [here](https://molten-ruler-248112.web.app/) 
 ---
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dc361626-8025-42ce-a488-a0319b054770/deploy-status)](https://app.netlify.com/sites/priceless-fermat-3dc6e4/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/493f27ba-a95d-44d1-b6a8-3da3a847a3d9/deploy-status)](https://app.netlify.com/sites/fervent-montalcini-6e5a8e/deploys)
 
 To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
