@@ -52,9 +52,9 @@
     "format": "prettier --write '{gatsby-*.js,src/**/*.{js,jsx,json,css}}'",
     "develop": "gatsby develop",
     "start": "npm run develop",
-    "build": "rm -rf public && rm -rf .cache && gatsby build",
+    "build": "rm -rf public && rm -rf .cache && gatsby build --prefix-paths && gh-pages -d public",
     "now-build": "gatsby build",
-    "deploy": "yarn build && firebase deploy --token '$_FIREBASE_TOKEN'",
+    "deploy": "yarn build",
     "dry": "yarn build && cp now.json public/ && cd public && now"
   },
   "husky": {
