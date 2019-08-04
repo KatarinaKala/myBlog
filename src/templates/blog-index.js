@@ -15,7 +15,7 @@ class BlogIndexTemplate extends React.Component {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title');
     const langKey = this.props.pageContext.langKey;
 
-    const posts = get(this, 'props.data.allMarkdownRemark.edges');
+    const posts = get(this, 'props.data.allMarkdownRemark.edges') || [];
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -24,11 +24,11 @@ class BlogIndexTemplate extends React.Component {
           <Bio />
         </aside>
         <main>
-          {langKey !== 'en' && langKey !== 'ru' && (
+          {/* {langKey !== 'en' && langKey !== 'ru' && (
             <Panel>
               These articles have been{' '}
               <a
-                href="https://github.com/gaearon/overreacted.io#contributing-translations"
+                href="https://github.com/Katarinakala/myBlog"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -36,7 +36,7 @@ class BlogIndexTemplate extends React.Component {
               </a>
               .
             </Panel>
-          )}
+          )} */}
 
           {posts.map(({ node }) => {
             const title = get(node, 'frontmatter.title') || node.fields.slug;
